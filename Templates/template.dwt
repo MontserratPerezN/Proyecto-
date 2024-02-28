@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../template3.css" rel="stylesheet" type="text/css">
+<link href="../template 2.0" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body bgcolor="#FFFFFF">
+<div id="contenedor">
+  <div id="encabezado"><strong style="font-size: 36px; text-align: center;">Timothee Chalamet</strong></div>
+  <div id="menú"><!-- TemplateBeginEditable name="EditRegion3" --><table width="498" border="0" align="center">
+  <tbody>
+    <tr>
+      <td align="center"><a href="../peli3.html">Inicio</a></td>
+      <td align="center"><a href="../peli1.html">Pelicula1</a></td>
+      <td align="center"><a href="../peli2.html">Pelicula2</a></td>
+      <td align="center"><a href="../index.html">Pelicula3</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- TemplateEndEditable --></div>
+  <div id="body"><!-- TemplateBeginEditable name="EditRegion4" --><!-- TemplateEndEditable --></div>
+  <div id="pie">
+    <div id="pt1">
+      <p>derechos reservados por:</p>
+      <p>montserrat Perez Nuño</p>
+      <p>viviana Sahagun Vargas </p>
+      <p>carolina Yazmin</p>
+      <p>&nbsp; </p>
+    </div>
+    <div id="pt2"><img src="../instagram.jpg" width="175" height="120" alt=""/> <img src="../Whats.png" width="182" height="121" alt=""/></div>
+	  
+  </div>
+	
+</div>
+	
+</body>
+</html>

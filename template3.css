@@ -1,0 +1,40 @@
+#contenedor {
+    height: 800px;
+    width: 100%;
+}
+#encabezado {
+    background-color: #CFDEFF;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+#menú {
+    background-color: #C8C8C8;
+    height: 50px;
+    width: 100%;
+}
+#body {
+    background-color: #EFDBFF;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+}
+#pie {
+    background-color: #A6C6E3;
+    height: 150px;
+    width: 100%;
+}
+#pt1 {
+    background-color: #91B9FF;
+    float: left;
+    height: 150px;
+    width: 50%;
+    text-align: center;
+}
+#pt2 {
+    background-color: #FF7FBE;
+    float: left;
+    height: 150px;
+    width: 50%;
+    text-align: center;
+}
